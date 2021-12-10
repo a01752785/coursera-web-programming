@@ -1,13 +1,13 @@
 body {
-    background-color: tan
+    background-color: lightblue;
 }
 
 p {
-    font-family: arial;
+    font-family: times;
 }
 
 div {
     background-color: white;
-    width: 300px;
+    width: 400px;
     color: black;
 }
