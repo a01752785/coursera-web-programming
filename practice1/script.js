@@ -1,5 +1,5 @@
 function hello() {
-    alert("Hello how are you doing?");
+    alert("Hola, como estas. This is hellow how are you doing in Spanish");
 }
 
 function showtime() {
